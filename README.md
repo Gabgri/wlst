@@ -28,7 +28,7 @@ Here i'm going to add all the WLST/SSH Jython scripts i wrote and modified
 
 ## Built with:
 * shell
-* weblogic scripting tool wlst
+* weblogic scripting tool - wlst
 * pyhton
 * jython
 
