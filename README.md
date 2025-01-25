@@ -10,15 +10,15 @@ Here i'm going to add all the WLST/SSH Jython scripts i wrote and modified
 
 
 # Folder Structure
-script.ssh
-readme.md
--BIN
-*--main.py
--CONFIG
-*--check.properties
--LOG
-*--output.log
--IN
-*--inputfile
--OUT
-*--outputfile
+#### script.ssh
+#### README.md
+#### BIN
+* main.py
+#### CONFIG
+* check.properties
+#### LOG
+* output.log
+#### IN
+* inputfile
+#### OUT
+* outputfile
