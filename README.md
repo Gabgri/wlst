@@ -42,7 +42,7 @@ Here i'm going to add all the WLST/SSH Jython scripts i wrote and modified
 
 
 ## Folder Structure
-* script.ssh
+* script.sh
 * README.md
 * BIN  --main.py
 * CONFIG  --check.properties
